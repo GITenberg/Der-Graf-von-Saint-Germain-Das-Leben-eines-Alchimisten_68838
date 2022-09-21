@@ -1,0 +1,30 @@
+_repo: Der-Graf-von-Saint-Germain-Das-Leben-eines-Alchimisten_68838
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Volz, Gustav Berthold
+    birthdate: 1871
+    deathdate: 1938
+    gutenberg_agent_id: '54971'
+    url: http://www.gutenberg.org/2009/agents/54971
+    wikipedia: https://de.wikipedia.org/wiki/Gustav_Berthold_Volz
+description: ''
+gutenberg_issued: '2022-08-25'
+identifiers:
+  gutenberg: '68838'
+language: de
+pgterms:marc905: 20191005063001volz
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Paul Aretz Verlag,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alchemists -- Biography'
+- !lcsh 'Saint-Germain, comte de, -1784'
+- !lcc 'QD'
+- GITenberg
+title: 'Der Graf von Saint-Germain: Das Leben eines Alchimisten'
+url: http://www.gutenberg.org/ebooks/68838
