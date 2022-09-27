@@ -1,5 +1,8 @@
 _repo: Der-Graf-von-Saint-Germain-Das-Leben-eines-Alchimisten_68838
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68838-h/images/cover.jpg
 creator:
   author:
     agent_name: Volz, Gustav Berthold
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54971
     wikipedia: https://de.wikipedia.org/wiki/Gustav_Berthold_Volz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68838#Der-Graf-von-Saint-Germain-Das-Leben-eines-Alchimisten
 gutenberg_issued: '2022-08-25'
 identifiers:
   gutenberg: '68838'
